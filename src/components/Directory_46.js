@@ -13,7 +13,7 @@ const Directory_46 = () => {
           const { id, name, remoteUrl, size } = item;
           return (
             <MenuItem_46
-              id={id}
+              key={id}
               name={name}
               remoteUrl={remoteUrl}
               size={size}
