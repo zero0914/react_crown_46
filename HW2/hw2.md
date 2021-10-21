@@ -399,6 +399,7 @@ export default items2;
   ![](./8.png)
 - Github page 設定之截圖
 - Github page URL 及截圖，可以執行 React 程式
+  ![](./13.png)
 
 ---
 
@@ -420,3 +421,4 @@ export default items2;
 7. (heroku) 在 Heroku 上要能顯示第 6 題的 header。
 
 - Heroku 上 Chrome /shop_xx 執行結果截圖
+  ![](./14.png)
