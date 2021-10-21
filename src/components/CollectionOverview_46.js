@@ -3,11 +3,12 @@ import './CollectionOverview_46.scss';
 import CollectionPreview_46 from "./CollectionPreview_46";
 import items2 from './collection-items-data';
 
-const CollectionOverview_46 = () => {
+const CollectionOverview_46 = ({title}) => {
 
     return (
 
         <div className="collection-overview">
+            <h2 class="title">{title}</h2>
             <CollectionPreview_46
 
             />

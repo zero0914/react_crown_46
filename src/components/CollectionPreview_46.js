@@ -29,7 +29,7 @@ const CollectionPreview_46 = ({ title }) => {
             <h2 className="title">{title}</h2>
             <div className="preview">
                 {collectionItems.map((item2) => {
-                    const { id, Url, name, price } = item2;
+                    const { id, Url, name, price,title } = item2;
                     console.log("collectionItems", collectionItems)
                     return (
                         <CollectionItem_46

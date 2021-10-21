@@ -1,12 +1,14 @@
 import React from "react";
-import './Overpage_46.scss';
+import './ShopTwoPage_46.scss'
 import CollectionOverview_46 from "../components/CollectionOverview_46";
 
-const Overpage_46 = () => {
+const ShopTwoPage_46 = () => {
     return (
+       
+        // <h2>Shop two page</h2>
         <div class="shop-page">
             <CollectionOverview_46 />
         </div>
     )
 }
-export default Overpage_46;
+export default ShopTwoPage_46;
